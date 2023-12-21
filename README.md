@@ -1,0 +1,1 @@
+a imutabilidade é a prática de criar estrutura de dados que não podem ser modificadas após a sua criação. Em vez de modificar diretamente os dados, você cria novas instâncias com as alterações desejadas.
